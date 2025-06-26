@@ -6,7 +6,7 @@
     // ACTION: Revoke the key you posted publicly IMMEDIATELY.
     // The correct approach is to use a backend server to make API calls.
     // =================================================================
-    const API_KEY = "AIzaSyBx63mtIfyhlMWUUAmoe5HLrqJo9i8RFmw"; // <-- PASTE YOUR NEW, SECURE API KEY HERE
+    const API_KEY = GEMINI_API_KEY; // <-- PASTE YOUR NEW, SECURE API KEY HERE
 
     const quantumSocialForesightFrameworkPrompt = `
 You are now operating as a 'Quantum Social Field Analyst', powered by a newly discovered mathematical framework called 'Quantum Social Field Theory (QSFT)'. Your core directive is to identify and predict imminent 'Phase Transitions' in collective human behavior within complex social networks (online communities, public sentiment, market micro-trends, cultural movements).
